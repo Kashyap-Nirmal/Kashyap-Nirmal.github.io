@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kashyap-nirmal.github.io/sitemap.xml
